@@ -1,4 +1,4 @@
-#summary LSculpt introduction
+#summary What is LSculpt?
 
 = Introduction =
 
