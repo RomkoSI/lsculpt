@@ -3,17 +3,11 @@ Automatically exported from code.google.com/p/lsculpt
 
 LSculpt: Studs-out LEGO® Sculpture
 
-looking for the old web page?
-
-LSculpt: Studs-out LEGO® Sculpture
-
 LSculpt is a program which converts a triangle mesh into an LDraw file. Like the sphere generator, the generated model consists of a surface of 1×1 plates oriented in whichever direction provides the best detail.
 
 Here's an example sculpture designed with LSculpt. http://lego.bldesign.org/LSculpt/bunnies_624.jpg
 
-download
-
-LSculpt is currently available for Windows. You can download the latest version here.
+LSculpt is currently available for Windows. 
 
 Interested developers may also take a look at the source code. LSculpt is written in C++. The graphical interface uses the Qt Creator application framework. The preview window is powered by Travis Cobbs' LDView.
 
